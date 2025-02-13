@@ -35,10 +35,10 @@ The **PostgreSQL architecture** here shows the key components involved in handli
 ---
 
 
-## **2️⃣ What You Should Learn for System Design with PostgreSQL in AWS**
+## **2️⃣ Topics for System Design with PostgreSQL in AWS**
 
 
-To design a **scalable, high-performance, and fault-tolerant system using PostgreSQL on AWS**, you should focus on the following:
+To design a **scalable, high-performance, and fault-tolerant system using PostgreSQL on AWS**, we should focus on the following:
 
 
 ### **🛠️ Performance Optimization**
@@ -102,7 +102,7 @@ To design a **scalable, high-performance, and fault-tolerant system using Postgr
 ## **3️⃣ Learning Path for System Design**
 
 
-If you're preparing for **system design interviews** or **architecting PostgreSQL-based solutions in AWS**, here’s a structured learning path:
+If we're preparing for **system design interviews** or **architecting PostgreSQL-based solutions in AWS**, here’s a structured learning path:
 
 
 ### **Step 1: Master PostgreSQL Internals**
